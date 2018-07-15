@@ -121,3 +121,7 @@ p {
 .certificate summary {
   margin-left: 20px;
 }
+
+div.contact.ui.stackable.four.column.grid.center.aligned {
+  margin-top: 10px;
+}
